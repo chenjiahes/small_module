@@ -1644,6 +1644,12 @@
         <mxCell id="lidNru_K4iT7q1CjeZGk-106" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Dis_Atten&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="991" y="-1957" width="79" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="lidNru_K4iT7q1CjeZGk-107" value="&lt;font color=&quot;#ff0000&quot;&gt;zero_init&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-422" y="-1914" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lidNru_K4iT7q1CjeZGk-108" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;V_0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310.5" y="-1794" width="43" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
