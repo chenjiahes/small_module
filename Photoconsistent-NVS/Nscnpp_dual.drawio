@@ -2216,9 +2216,6 @@
         <mxCell id="lidNru_K4iT7q1CjeZGk-320" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="289" y="-3080.38" width="156" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="lidNru_K4iT7q1CjeZGk-321" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Motion_Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="228.25" y="-3367" width="135" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="lidNru_K4iT7q1CjeZGk-322" value="Temporal-Attention(cross)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="-3025.38" width="145" height="24" as="geometry" />
         </mxCell>
@@ -2234,8 +2231,8 @@
         <mxCell id="lidNru_K4iT7q1CjeZGk-326" value="&lt;font color=&quot;#ff0000&quot;&gt;zero_init&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="423.5" y="-2600.38" width="63" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lidNru_K4iT7q1CjeZGk-327" value="&lt;b style=&quot;&quot;&gt;(TemporalTransformer)： May have strong attention between frames&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="351" y="-3369" width="537" height="31" as="geometry" />
+        <mxCell id="lidNru_K4iT7q1CjeZGk-327" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Transformer3DModel&lt;/font&gt;： May have frames dims and add a Cross-atten&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="-3369" width="542" height="31" as="geometry" />
         </mxCell>
         <mxCell id="lidNru_K4iT7q1CjeZGk-328" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lidNru_K4iT7q1CjeZGk-329" target="lidNru_K4iT7q1CjeZGk-334">
           <mxGeometry relative="1" as="geometry" />
