@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="9iuUvMauQ7m_eKBMI4Z7">
-    <mxGraphModel dx="7484" dy="6796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="5053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2388,6 +2388,9 @@
         </mxCell>
         <mxCell id="lidNru_K4iT7q1CjeZGk-370" value="&lt;font color=&quot;#ff0000&quot;&gt;The cond_img use Noise masked or not&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-833" y="-3263" width="305" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lidNru_K4iT7q1CjeZGk-371" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;When use the Motion Module to tuning-fine the diffusion model, need to Zero init the module or remodel the potimizer learning rate??&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1016" y="-3430" width="1032" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
