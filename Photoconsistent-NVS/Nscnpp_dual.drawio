@@ -2386,6 +2386,9 @@
         <mxCell id="lidNru_K4iT7q1CjeZGk-369" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ff0000&quot;&gt;Cross_cond (&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Here is self&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ff0000&quot;&gt;)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-438" y="-2914.38" width="108" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="lidNru_K4iT7q1CjeZGk-370" value="&lt;font color=&quot;#ff0000&quot;&gt;The cond_img use Noise masked or not&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-833" y="-3263" width="305" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
