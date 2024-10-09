@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="SoIzGKvfXBfCtIXZMCsS">
-    <mxGraphModel dx="4331" dy="2296" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4280" dy="1986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -930,6 +930,18 @@
         </mxCell>
         <mxCell id="R5nIYqu6_4dfiVNAs0mq-430" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;X-ab&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="-1048" y="4053" width="81" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="R5nIYqu6_4dfiVNAs0mq-447" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;V0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="-1645" y="4885" width="91" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="R5nIYqu6_4dfiVNAs0mq-448" value="&lt;b&gt;This way is fail , it can&#39;t capture the relationship on the cond frame and target frame by camera motion&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="5029" width="1426" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="R5nIYqu6_4dfiVNAs0mq-450" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;problem1&lt;/font&gt;: not add the feedforward in the transformer blocks&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="-1625" y="5093" width="852" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="R5nIYqu6_4dfiVNAs0mq-451" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;problem2&lt;/font&gt;:the TMT model need to model the relationship not just the motion module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="-1621" y="5157" width="1171" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
