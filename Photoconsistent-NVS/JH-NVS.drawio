@@ -940,8 +940,8 @@
         <mxCell id="R5nIYqu6_4dfiVNAs0mq-450" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;problem1&lt;/font&gt;: not add the feedforward in the transformer blocks&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-1621" y="5087" width="852" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="R5nIYqu6_4dfiVNAs0mq-451" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;problem2&lt;/font&gt;:the TMT model need to model the relationship not just the motion module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="-1621" y="5158" width="1171" height="47" as="geometry" />
+        <mxCell id="R5nIYqu6_4dfiVNAs0mq-451" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;problem2&lt;/font&gt;:&amp;nbsp; the TMT model need to model the relationship not just the motion module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="-1619.5" y="5155" width="1187" height="47" as="geometry" />
         </mxCell>
         <mxCell id="R5nIYqu6_4dfiVNAs0mq-452" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;problem3&lt;/font&gt;: The skip connect in MCM module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-1619.5" y="5223" width="625" height="47" as="geometry" />
