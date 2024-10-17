@@ -1712,8 +1712,8 @@
         <mxCell id="D7SB4kNn__szAvQiqsrp-103" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-542.4300000000001" y="7119" width="17" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="D7SB4kNn__szAvQiqsrp-105" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Half the dim???&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="-1168.51" y="6790" width="139" height="47" as="geometry" />
+        <mxCell id="D7SB4kNn__szAvQiqsrp-105" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Half the dim or have a ratio&amp;nbsp; ???&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="-1169.87" y="6790" width="262" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
