@@ -1894,7 +1894,7 @@
         <mxCell id="D7SB4kNn__szAvQiqsrp-176" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="D7SB4kNn__szAvQiqsrp-173" target="D7SB4kNn__szAvQiqsrp-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7SB4kNn__szAvQiqsrp-173" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;FFN&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="D7SB4kNn__szAvQiqsrp-173" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;FFN&lt;font color=&quot;#000000&quot;&gt;(&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;GMLP&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;)&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-659.5" y="7806" width="115.11" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D7SB4kNn__szAvQiqsrp-180" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="D7SB4kNn__szAvQiqsrp-174" target="D7SB4kNn__szAvQiqsrp-179">
