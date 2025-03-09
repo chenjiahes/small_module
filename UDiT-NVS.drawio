@@ -393,6 +393,9 @@
             <mxPoint x="479" y="365.562448425293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fvwfvfFnf7SNEuH7nHS5-154" value="&lt;b&gt;ResnetBlock_Shuffle&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-129" width="238" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
